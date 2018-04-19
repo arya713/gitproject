@@ -9,3 +9,4 @@ def divide(x,y):
 def square(x):
 	return x
 print
+print ()
